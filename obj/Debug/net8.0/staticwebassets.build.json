@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dbPKwtg/aetgCb2L/bpaFPCe0ZuVkkBpc2y88jIpOYA=",
+  "Source": "MyCustomMiddleware",
+  "BasePath": "_content/MyCustomMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
